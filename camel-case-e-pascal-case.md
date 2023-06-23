@@ -19,6 +19,7 @@ Exemplo:
 * Não pode ter espaço em branco
  
  ![image](https://github.com/xxxgabexxx/java-textos/assets/103377845/d38b8e2d-5dee-4768-a794-0af87e96ddbc)
+
 Sugestão: use nomes que tenham um significado
  # Pascal Case
  ### Onde utilizar Pascal Case em Java?
